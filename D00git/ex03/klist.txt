@@ -1,0 +1,5 @@
+Credentials cache: API:4CED8CF9-9479-4C12-878D-72B5343D3E5E
+        Principal: ghubert@42.FR
+
+  Issued                Expires               Principal
+Aug  1 15:32:05 2016  Aug  8 15:31:44 2016  krbtgt/42.FR@42.FR
